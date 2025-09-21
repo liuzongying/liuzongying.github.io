@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liu Zongying"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her/"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dalian"
   employer         : "Dalian Maritime University"
