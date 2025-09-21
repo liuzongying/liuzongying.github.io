@@ -24,13 +24,13 @@ repository               : "academicpages/liuzongying.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liu Zongying"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dalian"
   employer         : "Dalian Maritime University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liuzongying@dlmu.edu.cn" 
 
   # Academic websites
   academia         : # URL
